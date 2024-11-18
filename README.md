@@ -1,6 +1,6 @@
 <center><div align="center">
 
-<img src="https://github.com/NMDDSB/XXT-Assistant/blob/main/img/XXT-cat.png?raw=true" width="300" height="300" style="border-radius: 50%"></img>
+<img src="https://github.com/user-attachments/assets/e787b9b6-b838-4f21-863b-3db64a588ba8" width="300" height="300" style="border-radius: 50%"></img>
 
 [![version](https://img.shields.io/github/last-commit/NMDDSB/XXT-Assistant.svg?style=for-the-badge&label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0&logo=velog&logoColor=BE95FF&color=7B68EE)](https://github.com/NMDDSB/XXT-Assistant)
 [![stars](https://img.shields.io/github/stars/NMDDSB/XXT-Assistant.svg?style=for-the-badge&label=Stars&logo=undertale&logoColor=orange&color=orange)](https://github.com/NMDDSB/XXT-Assistant)
