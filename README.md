@@ -29,7 +29,7 @@
 |          | exe版本           | python版本     | 网页版本     | APP版本        |
 | -------- | ------------------- | ---------------- | ---------------- | ---------------- |
 | 使用方法 | `双击运行XXT-Assistant.exe` | `py XXT-Assistant.py` | 正在开发中  | 正在开发中  |
-| 下载链接 | [exe下载链接](https://github.com/NMDDSB/XXT-Assistant/blob/main/XXT-Assistant.exe)     | [python下载链接](https://github.com/NMDDSB/XXT-Assistant/blob/main/XXT-Assistant.py) | 噼里啪啦敲键盘中 | 噼里啪啦敲键盘中 |
+| 下载链接 | [exe下载链接](https://github.com/NMDDSB/XXT-Assistant/releases)     | [python下载链接](https://github.com/NMDDSB/XXT-Assistant/releases) | 噼里啪啦敲键盘中 | 噼里啪啦敲键盘中 |
 
 ### 🖥️exe版本使用教程
 
